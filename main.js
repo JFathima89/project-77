@@ -1,0 +1,12 @@
+var first="abc";
+var second="def";
+var full= first.concat(second);
+console.log(full);
+console.log(first);
+console.log(second);
+var colors=["pink","yellow","blue"];
+console.log(colors);
+var a =10;
+var b=4;
+var c=a+b;
+console.log(c);
